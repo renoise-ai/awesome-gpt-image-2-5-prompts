@@ -1,0 +1,13 @@
+{
+  "id": "item-place-55",
+  "title": "护照入境印章",
+  "content": "创建一个逼真的护照内页，盖上一枚「北京，中国」入境章。章面以粗体英文写「WELCOME TO BEIJING」，圆形并带装饰性边框，含「ARRIVAL」字样和日期「2026-09-08」。章面背景融入故宫角楼轮廓的微妙水印细节。使用深蓝色油墨并略加晕染增强真实感，章面略微倾斜，如同手工压印。护照页清晰可见纸张纹理与安全底纹，页面上另有几枚其他国家风格的旧签证章作点缀。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/055-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-55.webp",
+  "featured": false,
+  "tags": []
+}

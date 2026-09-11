@@ -1,0 +1,17 @@
+{
+  "id": "pixel-art-sprite-sheet-for-character",
+  "title": "Pixel Art Sprite Sheet For Character",
+  "content": "为这个角色制作一个128px的简化像素艺术战斗动作的精灵图集。请做到透明。以4x4的格式排列 (战斗动作可按需替换，比如：挥剑、蓄力、闪避)",
+  "language": "zh",
+  "author": {
+    "name": "睿奇Re7",
+    "link": "https://x.com/Re7_AI"
+  },
+  "sourceLink": "https://x.com/Re7_AI/status/2097595063153090824",
+  "sourcePublishedAt": "2026-09-09",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/2097595063153090824.webp",
+  "featured": false,
+  "tags": [
+    "Reference Fidelity"
+  ]
+}

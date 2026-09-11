@@ -1,0 +1,13 @@
+{
+  "id": "item-place-45",
+  "title": "虚构推文截图",
+  "content": "一张超写实的推文截图：一位酷似老照片中的相对论提出者——白发乱蓬蓬、蓄着小胡子的虚构物理学家「A. Einsteinstein」——刚完成毕生研究后发的推文。配图是自拍：背景里清晰可见写满潦草公式的黑板，他对镜头俏皮地吐舌头。推文文案：「E=mc²，就这么简单。」下方显示点赞来自「N. Teslawicz」，并附一条傲娇评论：「又偷用我交流电的灵感？ ;)」界面细节逼真，浅色模式。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/045-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-45.webp",
+  "featured": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "item-place-88",
+  "title": "皮克斯3D风格原创角色",
+  "content": "以皮克斯 3D 动画风格创作一个原创角色：一位退休的马戏团魔术师爷爷，白色八字胡，酒红色天鹅绒礼服外套缝满补丁，鼻梁上架着单片眼镜，肩头蹲着一只戴小礼帽的白鸽。温暖柔光，大而富有表现力的眼睛，细腻的皮肤质感与次表面散射，半身特写，深色丝绒幕布背景。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/088-imported-3d.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-88.webp",
+  "featured": false,
+  "tags": []
+}

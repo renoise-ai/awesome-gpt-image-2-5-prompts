@@ -1,0 +1,15 @@
+node_modules/
+dist/
+tmp/
+.env
+.env*.local
+*.log
+.DS_Store
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Dev artifacts
+screenshot-*.png
+public/video-test.html

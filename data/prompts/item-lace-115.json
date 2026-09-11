@@ -1,0 +1,13 @@
+{
+  "id": "item-lace-115",
+  "title": "复古植物学勿忘我海报",
+  "content": "一张印在米色纸张上的科学植物学海报。画面中心是一朵巨大的 {argument name=\"flower\" default=\"勿忘我\"} 水彩画，包含根部，茎和花瓣上带有细小的编号标签。顶部为斜体衬线字体标题：\"FORGET-ME-NOT\"。副标题：\"A FIELD PLATE\"。底部：\"{argument name=\"plate number\" default=\"PLATE VII · 1887\"}\"。边缘处有铅笔笔记。米色、靛蓝色、绿色，2:3 纵横比。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/115-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-115.webp",
+  "featured": false,
+  "tags": []
+}

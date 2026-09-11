@@ -1,0 +1,13 @@
+{
+  "id": "ootd",
+  "title": "名画人物 OOTD",
+  "content": "以《戴珍珠耳环的少女》画中人物为主角，生成一组时尚穿搭 OOTD 图：Q 版 3D、C4D 渲染，保持她蓝黄头巾与珍珠耳环的特征色系，姿势保持一致，腿部比例修长。纯色背景与穿搭色系一致。9:16 竖构图，顶部文字「OOTD · VOL.1」，左侧为人物 Q 版形象，右侧竖排展示穿搭单品：燕麦色风衣、银色耳机、帆布包、德训鞋。职业主题：插画师。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/073-imported-ootd.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-73.webp",
+  "featured": false,
+  "tags": []
+}

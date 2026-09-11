@@ -1,0 +1,13 @@
+{
+  "id": "iphone",
+  "title": "“极其平凡”的iPhone自拍",
+  "content": "画一张极其平凡无奇的 iPhone 自拍照：没有明确的主体或构图感，就像随手一拍的快照。照片略带运动模糊，店内灯光不均导致轻微曝光过度，角度尴尬、构图混乱，整体呈现刻意的平庸感——像从口袋里掏手机时不小心拍到。主角是两个虚构的年轻男生，夜晚站在香港维多利亚港旁，身后是会展中心和对岸的万家灯火。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/052-imported-iphone.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-52.webp",
+  "featured": false,
+  "tags": []
+}

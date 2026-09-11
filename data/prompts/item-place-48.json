@@ -1,0 +1,13 @@
+{
+  "id": "item-place-48",
+  "title": "云彩艺术",
+  "content": "生成一张白天拍摄的照片：天空中散落的云朵恰好组成一只正在遨游的巨型抹香鲸的形状，位于青海湖上空。湖面平静如镜倒映着鲸状云影，几只水鸟掠过水面。自然纪实摄影风格，广角构图，空气通透，光线柔和。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/048-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-48.webp",
+  "featured": false,
+  "tags": []
+}

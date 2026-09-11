@@ -1,0 +1,13 @@
+{
+  "id": "3d-markdown",
+  "title": "极简主义 3D 插画（Markdown 格式）",
+  "content": "画一个马桶，严格遵循以下 Markdown 风格规范：## 艺术风格：极简主义3D插画。### 造型语言：圆润的边缘、平滑柔和的外形，简化几何造型。### 色彩：主色调为柔和米色、浅灰色；强调色为暖橙色，用于焦点元素（按钮与水箱盖）；明暗为柔和渐变、平滑过渡，避免强烈阴影。### 构图：居中，背景纯净浅灰，等距视角，柔和摄影棚光。### 质感：哑光陶瓷触感，轻微颗粒噪点。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/067-imported-3d-markdown.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-67.webp",
+  "featured": false,
+  "tags": []
+}

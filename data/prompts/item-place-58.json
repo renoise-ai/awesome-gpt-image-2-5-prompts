@@ -1,0 +1,13 @@
+{
+  "id": "item-place-58",
+  "title": "体素风格 3D 图标",
+  "content": "将一台复古拍立得相机转换为体素（voxel）3D 图标：立方体素块拼出银灰色机身、彩虹条纹带与圆形镜头，方块之间有清晰的阶梯状体素过渡。Octane 渲染，8K 细节，柔和影棚光，浅灰背景，45° 等距视角，1:1 构图。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/058-imported-3d.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-58.webp",
+  "featured": false,
+  "tags": []
+}

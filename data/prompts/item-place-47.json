@@ -1,0 +1,13 @@
+{
+  "id": "item-place-47",
+  "title": "彩色矢量艺术海报",
+  "content": "生成一张夏季主题的彩色矢量艺术海报，地点是英国伦敦：画面为扁平几何风格的伦敦地标——塔桥、大本钟、红色电话亭与双层巴士，云朵与海鸥点缀，色彩明快。海报顶部有大字标题「LONDON」，下方较小标题「UNITED KINGDOM」，底部一条细线与小字「SUMMER TRAVEL SERIES」。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/047-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-47.webp",
+  "featured": false,
+  "tags": []
+}

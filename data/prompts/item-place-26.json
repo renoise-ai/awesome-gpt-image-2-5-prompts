@@ -1,0 +1,13 @@
+{
+  "id": "item-place-26",
+  "title": "字母与单词含义融合",
+  "content": "创作一幅字体设计插画：将图形与字母巧妙融合，让单词的含义长在字形里。单词：{grow}——字母 g、r、o、w 的笔画延伸出藤蔓、新芽与叶片，「o」化为一棵树冠饱满的小树，字母整体保持清晰可读。单词下方加一行简短中文说明：「生长：让字母自己长成一片森林」。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/026-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-26.webp",
+  "featured": false,
+  "tags": []
+}

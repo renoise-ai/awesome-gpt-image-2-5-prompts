@@ -1,0 +1,13 @@
+{
+  "id": "3d-json",
+  "title": "极简主义 3D 插画（JSON 格式）",
+  "content": "使用以下 JSON 配置生成一个马桶：{ \"art_style_profile\": { \"style_name\": \"Minimalist 3D Illustration\", \"shape_language\": \"rounded edges, smooth soft forms, simplified geometry\", \"colors\": { \"primary\": [\"beige\", \"light grey\"], \"accent\": \"warm orange\", \"shading\": \"soft gradients, smooth transitions, no harsh shadows\" }, \"rendering\": { \"engine\": \"C4D\", \"background\": \"pure light grey\", \"camera\": \"isometric, centered\", \"texture\": \"matte ceramic, subtle grain\" } }, \"subject\": \"a toilet\", \"accent_usage\": \"flush button and tank lid in warm orange\" }",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/074-imported-3d-json.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-74.webp",
+  "featured": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "json",
+  "title": "玻璃材质重塑（JSON）",
+  "content": "基于以下 JSON 美学定义，将一把撑开的老虎伞重新渲染为玻璃材质：{ \"style\": \"photorealistic 3D render\", \"material\": \"translucent colored glass\", \"object\": \"a classic open umbrella with tiger-orange panels\", \"background\": \"plain white\", \"lighting\": \"soft, diffused studio lighting\", \"camera\": \"centered, slight top-down\" }。玻璃需带彩虹色折射，伞骨为金属银色，整体干净通透，细节精致。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/095-imported-json.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-95.webp",
+  "featured": false,
+  "tags": []
+}

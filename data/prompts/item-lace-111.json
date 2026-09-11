@@ -1,0 +1,13 @@
+{
+  "id": "item-lace-111",
+  "title": "现代艺术活动海报",
+  "content": "[活动信息]\n- 活动名称：{argument name=\"event name\" default=\"Margin and Structure\"}\n- 日期与时间：{argument name=\"date\" default=\"2026 年 10 月 12 日 – 11 月 24 日\"}\n- 地点：{argument name=\"venue\" default=\"国家现代艺术博物馆\"}\n\n[质量、方向与构图]\n- 风格：当代艺术展览或现代设计活动海报，采用干净、极简的编辑排版。\n- 视觉元素：构图精美的摄影作品，包含几何抽象艺术品或混凝土与玻璃建筑空间，营造出宁静与智慧的氛围。\n- 排版位置（适用于 GPT-image / Nano Banana Pro）：活动名称“{argument name=\"event name\" default=\"Margin and Structure\"}”、日期“{argument name=\"date\" default=\"2026 年 10 月 12 日 – 11 月 24 日\"}”以及地点信息“{argument name=\"venue\" default=\"国家现代艺术博物馆\"}”需使用精致的现代无衬线字体，优美地排布在留白处。文字应与图像和谐共存，且不破坏整体美感。\n- 光影与色彩：以干净的白色为主基调，采用冷色调自然光及柔和的光影渐变，配色以中性色为主，辅以点缀色（如海军蓝或深灰色）。\n\n[严格的布局与输出限制（必填）]\n- 输出成品设计本身，并填满整个画布。设计内部的场景描述（墙壁、空间、阴影等）可遵循主要说明。\n- 禁止事项：禁止输出相框中的海报照片、贴在墙上的海报照片、放置在桌面或纸张上的样机照片、纸张边缘的透视变形或投影。\n- 输出成品平面 2D 设计本身，并填满整个画布。允许包含上述描述的设计内部场景元素（墙壁、房间、阴影）。绝对禁止任何海报样机效果：禁止画框、禁止墙上海报或桌上海报的拍摄视角、禁止艺术品边缘的透视变形或投影。\n\n- 宽高比：--ar 3:4",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/111-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-111.webp",
+  "featured": false,
+  "tags": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "anime-style-from-uploaded-subject",
+  "title": "Anime Style From Uploaded Subject",
+  "content": "Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting.",
+  "language": "en",
+  "author": {
+    "name": "Mr Das",
+    "link": "https://x.com/MrDasOnX"
+  },
+  "sourceLink": "https://x.com/MrDasOnX/status/2095429757060210753",
+  "sourcePublishedAt": "2026-09-03",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/2095429757060210753.webp",
+  "featured": false,
+  "tags": [
+    "Reference Fidelity"
+  ]
+}

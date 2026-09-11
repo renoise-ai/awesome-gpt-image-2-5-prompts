@@ -1,0 +1,95 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GPT Image 2.5 Prompt",
+  "description": "Schema for a single GPT Image 2.5 text-to-image prompt",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "content",
+    "language",
+    "thumbnail"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier, slugified from the title (e.g. 'vintage-national-park-stamps')"
+    },
+    "title": {
+      "type": "string",
+      "description": "Prompt title (English)"
+    },
+    "content": {
+      "type": "string",
+      "description": "The exact prompt text that produced the image (English)"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the prompt effect (max 200 chars, English)"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "en",
+        "zh",
+        "ja"
+      ],
+      "description": "ISO 639-1 code of the language the prompt text is written in"
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "link": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "name"
+      ]
+    },
+    "sourceLink": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to the original post (X/Twitter, etc.)"
+    },
+    "sourcePublishedAt": {
+      "type": "string",
+      "format": "date",
+      "description": "Original publish date (YYYY-MM-DD)"
+    },
+    "thumbnail": {
+      "type": "string",
+      "format": "uri",
+      "description": "The generated image. MUST be an https://assets.renoise.ai/... URL — hotlinked third-party images rot and are not re-served.",
+      "pattern": "^https://assets\\.renoise\\.ai/"
+    },
+    "referenceImages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "Reference images used as input. Normally empty: this collection only holds prompts that reproduce from text alone."
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this prompt is featured/pinned"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Tags for categorization (e.g. ['cinematic', 'nature', 'slow-motion'])"
+    },
+    "tips": {
+      "type": "string",
+      "description": "Usage tips and tricks for this prompt (English)"
+    }
+  }
+}

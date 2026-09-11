@@ -1,0 +1,18 @@
+{
+  "name": "awesome-gpt-image-2-5-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curated GPT Image 2.5 (ChatGPT Images 2.5) text-to-image prompts, each with the image it produced",
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-data.ts",
+    "generate": "tsx scripts/generate-readme.ts",
+    "validate": "tsx scripts/validate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@9.15.9"
+}

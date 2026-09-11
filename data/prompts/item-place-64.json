@@ -1,0 +1,13 @@
+{
+  "id": "item-place-64",
+  "title": "奇幻卡通插画",
+  "content": "一个卡通风格的角色：头部是一台带着笑脸的老式 CRT 显示器，戴着白色手套和圆头靴子，正开心地跳跃穿过一个发光的蓝色圆形传送门，背景是郁郁葱葱的奇幻森林——高大的树木、发光蘑菇、鲜花、宁静的河流、漂浮的岛屿，以及悬着三个月亮的星夜天空。整体明亮鲜艳的色彩搭配柔和光效，奇幻插画画风，细节丰富。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/064-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-64.webp",
+  "featured": false,
+  "tags": []
+}

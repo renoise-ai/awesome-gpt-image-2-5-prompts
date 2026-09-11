@@ -1,0 +1,17 @@
+{
+  "id": "launch-wordmark-mixed-materials",
+  "title": "Launch wordmark, mixed materials",
+  "content": "Create a minimalist 16:9 launch graphic on a pure warm-white background with enormous amounts of clean negative space.\nCentered composition.\nTop line: the exact word \"ChatGPT\" in very large, clean, black modern sans-serif typography.\nDirectly underneath it: the exact text \"Images 2.5\".\nEach individual character in \"Images 2.5\" must be rendered as a completely different physical or artistic medium while still remaining immediately readable as the correct letter.\nDespite the wildly different materials, preserve perfect baseline alignment, spacing and legibility.\nNo extra decorative elements, no additional text.",
+  "language": "en",
+  "author": {
+    "name": "OpenAI"
+  },
+  "sourceLink": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-official-launch-wordmark.webp",
+  "featured": false,
+  "tags": [
+    "official",
+    "typography",
+    "negative-space"
+  ]
+}

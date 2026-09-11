@@ -1,0 +1,13 @@
+{
+  "id": "item-place-85",
+  "title": "Q版求婚场景",
+  "content": "将一对年轻情侣转换成 Q 版 3D 人物：男生戴黑框眼镜、穿浅蓝衬衫，女生齐肩黑发、穿米白色连衣裙。场景换成求婚——男生单膝跪地举着打开的戒指盒，女生双手捂嘴、眼里闪着惊喜。背景是淡雅五彩花瓣做的拱门，浪漫的奶油色调，地上散落玫瑰花瓣。除了人物采用 Q 版 3D 风格，其他环境均为写实风格。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/085-imported-q.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-85.webp",
+  "featured": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "item-place-32",
+  "title": "代码风格名片",
+  "content": "特写镜头：一只手正拿着一张设计成 VS Code 中 JSON 文件外观的名片，名片上的代码以真实的 JSON 语法高亮格式呈现。窗口界面包含典型的工具栏图标和标题栏，标题显示为 Business Card.json，整体风格与 VS Code 界面完全一致，背景略微虚化。名片上的 JSON 代码为：{ \"name\": \"Lin Yao\", \"title\": \"Product Designer\", \"email\": \"lin@studio.design\", \"theme\": \"minimal\", \"mood\": \"curious\" }",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/032-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-32.webp",
+  "featured": false,
+  "tags": []
+}

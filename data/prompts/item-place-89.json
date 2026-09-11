@@ -1,0 +1,13 @@
+{
+  "id": "item-place-89",
+  "title": "Q版角色表情包",
+  "content": "创作一套原创 Q 版表情包，主角是扎丸子头的咖啡店店员「小茉」，共 9 个表情，3x3 网格排列，透明背景，1:1 构图。统一的 Q 版卡通风格，色彩鲜艳。每个表情的动作、神态各不相同，体现「骚、贱、萌、抓狂」等多样情绪：翻白眼、捶地狂笑、灵魂出窍、原地石化、撒咖啡豆当钱、干饭状态、社交恐惧发作、被夸时职业假笑、下班瞬间整个人发光。每个形象完整无残缺，带统一的白色描边贴纸效果，画面中无多余文字。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/089-imported-q.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-89.webp",
+  "featured": false,
+  "tags": []
+}

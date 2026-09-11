@@ -1,0 +1,17 @@
+{
+  "id": "sprite-sheet-of-four-dot-art-character-motions",
+  "title": "Sprite Sheet of Four Dot-Art Character Motions",
+  "content": "添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。\n・走る：体を前傾させ、手足を大きく交互に動かす。",
+  "language": "ja",
+  "author": {
+    "name": "布留川英一 / Hidekazu Furukawa",
+    "link": "https://x.com/npaka123"
+  },
+  "sourceLink": "https://x.com/npaka123/status/2097574111518375970",
+  "sourcePublishedAt": "2026-09-09",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/2097574111518375970.webp",
+  "featured": false,
+  "tags": [
+    "Reference Fidelity"
+  ]
+}

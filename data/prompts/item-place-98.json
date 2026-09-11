@@ -1,0 +1,13 @@
+{
+  "id": "item-place-98",
+  "title": "定制动漫手办",
+  "content": "生成一张摆在桌面上的动漫风格手办照片，以手机随手拍的轻松休闲视角呈现。手办是原创角色「星野栞」：银白短发挑染淡紫色，校服外套半披在肩上，单手托着一颗发光的小星星，全身姿势与面部表情生动还原设定。整体设计精致细腻，发丝与服饰采用自然柔和的渐变色彩与细腻质感，日系动漫风，细节丰富，观感精美。背景是虚化的书桌与暖光台灯，1:1。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/098-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-98.webp",
+  "featured": false,
+  "tags": []
+}

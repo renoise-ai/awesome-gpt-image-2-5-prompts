@@ -1,0 +1,13 @@
+{
+  "id": "item-lace-116",
+  "title": "爱因斯坦手写论文风格",
+  "content": "一张逼真的手机拍摄照片，内容为用铅笔书写的手写论文，采用 Albert Einstein 的笔迹，书写在 8.5x11 英寸的横线纸上，主题关于 {argument name=\"essay topic\" default=\"世界货币史\"}。请确保笔迹呈现出 Einstein 特有的书写风格变化。在右上角添加一点 {argument name=\"stain type\" default=\"咖啡渍\"}",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/116-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-116.webp",
+  "featured": false,
+  "tags": []
+}

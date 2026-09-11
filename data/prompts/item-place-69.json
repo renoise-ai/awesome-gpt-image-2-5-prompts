@@ -1,0 +1,13 @@
+{
+  "id": "item-place-69",
+  "title": "手绘信息图卡片（熬夜护肝）",
+  "content": "创作一张手绘风格的信息图卡片，9:16 竖版。背景为带纸质肌理的米白色，质朴亲切。上方以红黑相间的大号毛笔草书突出标题「给熬夜党的护肝指南」。正文分三个小节，每节一句精炼中文短语：① 23:30 请假装自己是一株含羞草；② 熬夜配枸杞，心理安慰拉满；③ 次日午睡 20 分钟，血条回一半。字体保持草书韵律、清晰可读。点缀简单手绘插画：弯月、保温杯、抱着键盘睡觉的小猫。周边留白。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/069-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-69.webp",
+  "featured": false,
+  "tags": []
+}

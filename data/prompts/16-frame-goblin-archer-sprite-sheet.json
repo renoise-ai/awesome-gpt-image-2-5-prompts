@@ -1,0 +1,20 @@
+{
+  "id": "16-frame-goblin-archer-sprite-sheet",
+  "title": "16-frame goblin archer sprite sheet",
+  "content": "Without using a skill, create a sprite sheet containing the full motion of a male pixel-art goblin drawing and firing a bow, for a total of 16 frames. Then slice the sheet into frames and make a seamless looping GIF.",
+  "language": "en",
+  "author": {
+    "name": "Fomsky_Wei",
+    "link": "https://x.com/Fomsky_Wei"
+  },
+  "sourceLink": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+  "sourcePublishedAt": "2026-09-09",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/2097559943075533257.webp",
+  "featured": false,
+  "tags": [
+    "game",
+    "pixel",
+    "sprite",
+    "animation"
+  ]
+}

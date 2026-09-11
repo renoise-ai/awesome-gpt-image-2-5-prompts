@@ -1,0 +1,13 @@
+{
+  "id": "item-place-79",
+  "title": "讽刺海报生成",
+  "content": "生成一张幽默讽刺海报，主题：「GPT Image 2.5 狂卷之后——设计师的出路是学会骑独轮车」。画面中央一位设计师骑着独轮车，穿过漂浮在空中的图层面板与色板，表情淡定。大字标语居中醒目，复古丝网印刷风格，双色（墨绿 + 橙），带纸张纹理质感，边框做旧。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/079-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-79.webp",
+  "featured": false,
+  "tags": []
+}

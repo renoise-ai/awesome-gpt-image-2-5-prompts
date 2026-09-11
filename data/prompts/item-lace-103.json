@@ -1,0 +1,13 @@
+{
+  "id": "item-lace-103",
+  "title": "黄金时刻电影感男性肖像",
+  "content": "逼真的电影感肖像，主角是一位英俊的成年男性，留着 {argument name=\"hair style\" default=\"凌乱的中长棕色头发\"} 和修剪整齐的胡须，身穿 {argument name=\"clothing\" default=\"柔软的米色针织圆领毛衣\"}。他面向镜头，表情冷静、自信且略带沉思。温暖的金色轮廓光在他的头发和肩膀周围形成光晕，强烈的柔光主光照亮了他的面部。背景深邃且富有情绪感，带有淡淡的琥珀色薄雾和大气烟雾，戏剧性的高对比度照明，自然的皮肤纹理，锐利的双眼，逼真的面部细节，浅景深，专业影棚摄影，85mm 人像镜头，f/1.8，奶油般虚化的背景，温暖的电影级调色，奢华杂志美学，超精细，照片级真实，8K。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/103-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-103.webp",
+  "featured": false,
+  "tags": []
+}

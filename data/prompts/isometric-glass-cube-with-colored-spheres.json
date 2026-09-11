@@ -1,0 +1,17 @@
+{
+  "id": "isometric-glass-cube-with-colored-spheres",
+  "title": "Isometric Glass Cube with Colored Spheres",
+  "content": "透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。",
+  "language": "zh",
+  "author": {
+    "name": "Hyperouters",
+    "link": "https://x.com/Hyperouters"
+  },
+  "sourceLink": "https://x.com/Hyperouters/status/2097654503692443744",
+  "sourcePublishedAt": "2026-09-09",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/2097654503692443744.webp",
+  "featured": false,
+  "tags": [
+    "Layout & Typography"
+  ]
+}

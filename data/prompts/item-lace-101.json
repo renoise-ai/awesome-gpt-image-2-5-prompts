@@ -1,0 +1,13 @@
+{
+  "id": "item-lace-101",
+  "title": "都市奢华男士肖像",
+  "content": "让一个 {argument name=\"subject\" default=\"时尚男士\"} 使用图像作为面部参考，他留着整洁的胡须，梳着大背头，以低角度中近景户外镜头拍摄。他戴着深色墨镜，身穿 {argument name=\"outerwear\" default=\"浅灰色大衣\"}，内搭黑色毛衣、白色衬衫和修身黑色领带。一只手抓着外套，另一只手插在口袋里，尽显自信。左手上戴着一枚戒指。{argument name=\"background\" default=\"深色都市大理石背景\"} 带有浅色纹理和精致的绿植点缀，增添了现代奢华感。光线柔和，增强了质感与对比度。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/101-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-101.webp",
+  "featured": false,
+  "tags": []
+}

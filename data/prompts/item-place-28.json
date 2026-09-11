@@ -1,0 +1,13 @@
+{
+  "id": "item-place-28",
+  "title": "超现实交互场景",
+  "content": "一幅铅笔素描：一只以手绘素描风格绘制的狮子，正低头与一只以照片级全彩呈现的金鱼安静对视，金鱼悬浮在半空中的一颗水滴里。全彩的金鱼与素描的狮子、素描的背景形成超现实对比，仿佛色彩闯入了铅灰色的世界。纸面保留轻微铅笔肌理与橡皮擦拭痕迹。",
+  "language": "zh",
+  "author": {
+    "name": "LaplaceYoung"
+  },
+  "sourceLink": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5/blob/main/docs/cases/028-imported-.md",
+  "thumbnail": "https://assets.renoise.ai/static/seo/showcase/gpt-image-2.5/gpt25-laplace-28.webp",
+  "featured": false,
+  "tags": []
+}
